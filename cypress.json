@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://demo.guru99.com/insurance/v1/",
+  "pageLoadTimeout": 15000,
+  "defaultCommandTimeout": 15000,
+  "testFiles": "**/**/*.feature"
+}
